@@ -64,6 +64,15 @@ header .navegation li a{
     margin-left: 100px;
 }
 
+header .navegation li a:hover{
+    padding: 5px;
+    color: #fff;
+    border: 1px solid #e51e2a;
+    border-radius: 20px;
+    background-color: #e51e2a;
+    transition: .5s all;
+}
+
 .container{
     position: relative;
     width: 100%;
